@@ -5,6 +5,8 @@
 
 Este proyecto calcula propiedades farmacocinéticas **ADME** (Absorción, Distribución, Metabolismo y Excreción) a partir de moléculas representadas como **SMILES** utilizando la biblioteca **RDKit**.
 
+![](imagen/Imagen.png)
+
 ## Propiedades calculadas
 
 - **LogP** (hidrofobicidad)
